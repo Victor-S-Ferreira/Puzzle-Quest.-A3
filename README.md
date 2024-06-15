@@ -1,2 +1,3 @@
-# Puzzle-Quest.-A3
+# PuzzleQuest
+
 trabalho em grupo
